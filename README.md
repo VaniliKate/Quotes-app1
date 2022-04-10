@@ -1,5 +1,7 @@
 # Quote Application
 
+![alt text](src/assets/Screenshot%20from%202022-04-10%2017-25-24.png)
+
 This project is based on [Angular Typescript Javascript CSS Bootstrap HTML](#TechStack).
 
 This app will allow its user to add, delete, upvote and downvote any quote. It will also display the time since any particular qute was added to the application.
