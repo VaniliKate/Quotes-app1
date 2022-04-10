@@ -2,7 +2,7 @@
 
 This project is based on [Angular Typescript Javascript CSS Bootstrap HTML](#TechStack).
 
-
+This app will allow its user to add, delete, upvote and downvote any quote. It will also display the time since any particular qute was added to the application.
 
 ## Author
 Kate Vanili
@@ -24,25 +24,27 @@ Make sure you have a browser with javascript enabled.
 ## Technologies
 
 ---
+-   Angular
+-   Typescript
 -   Javascript
 -   CSS
+-   Bootstrap
 -   HTML
 
 ### Setup Environment
 
-1. Clone the repo : `git clone https://github.com/katevanili/akan-generator.git`
-2. Locate `index.html` from the file
-3. Run `index.html` file in your favorite browser
+1. Clone the repo : `https://github.com/VaniliKate/Quotes-app1.git`
+2. Run `npm install`
+3. Run `ng serve --open` to run the app in your favourite browser
 
 ## Application features
 
 ---
--   Input of year of birth.
--   Input month of birth.
--   Input day of birth.
--   Select Gender.
--   Output Akan name.
+-   Add a quote.
+-   Delete a quote.
+-   Upvote a quote.
+-   Downvote a quote.
+-   Display time since quote was added.
 
-![alt text](images/home.jpg)
 
-![alt text](images/output.jpg)
+
