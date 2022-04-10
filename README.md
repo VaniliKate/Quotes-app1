@@ -4,7 +4,7 @@
 
 This project is based on [Angular Typescript Javascript CSS Bootstrap HTML](#TechStack).
 
-This app will allow its user to add, delete, upvote and downvote any quote. It will also display the time since any particular qute was added to the application.
+This app will allow its user to add, delete, upvote and downvote any quote. It will also display the time since any particular quote was added to the application.
 
 ## Author
 Kate Vanili
@@ -48,5 +48,6 @@ Make sure you have a browser with javascript enabled.
 -   Downvote a quote.
 -   Display time since quote was added.
 
+-Live site link (https://quotes-app1-gules.vercel.app/)
 
 
