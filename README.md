@@ -48,6 +48,9 @@ Make sure you have a browser with javascript enabled.
 -   Downvote a quote.
 -   Display time since quote was added.
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
 -Live site link (https://quotes-app1-gules.vercel.app/)
 
 
